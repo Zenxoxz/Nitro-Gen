@@ -1,14 +1,15 @@
-# Discord Username Checker 🕵️‍♂️
+# Discord Nitro Code Generator 🎁
 
-This tool checks random 3–5 character Discord usernames and notifies you via a Discord webhook when an available username is found.
+**Need help or want to connect with the community? [Join the server](https://discord.gg/zZ7p8Pbw).**
+
+This tool attempts to generate valid Discord Nitro gift codes. Simply set the number of attempts, enter your webhook, and let it run!
 
 ## ⚙️ Features
 
-- Validates your Discord token.
-- Randomly generates usernames.
-- Checks availability using Discord’s internal API.
-- Sends available usernames to a webhook (your server).
-- Logs progress with clear output.
+- Asks how many Nitro codes you want to try generating.
+- Automatically generates random gift codes.
+- Sends any valid hits to your provided Discord webhook.
+- Clean and simple terminal output for progress tracking.
 
 ---
 
@@ -17,5 +18,5 @@ This tool checks random 3–5 character Discord usernames and notifies you via a
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Zenxoxz/PomeSniper.git
-cd PomeSniper
+git clone https://github.com/Zenxoxz/Nitro-Gen.git
+cd NitroGen
